@@ -3,5 +3,5 @@ spring:
     name: car-microservices
   cloud:
     config:
-      enable:
+      enable: true
       uri: http://localhost:8081
