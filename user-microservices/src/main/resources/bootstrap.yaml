@@ -1,0 +1,8 @@
+spring:
+  aplication:
+    name: user-microservices
+  cloud:
+    config:
+      enable:
+      uri: http://localhost:8081
+      

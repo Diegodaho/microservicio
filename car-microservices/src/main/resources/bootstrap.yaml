@@ -1,0 +1,7 @@
+spring:
+  aplication:
+    name: car-microservices
+  cloud:
+    config:
+      enable:
+      uri: http://localhost:8081
